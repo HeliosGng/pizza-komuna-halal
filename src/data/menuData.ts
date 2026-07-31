@@ -14,7 +14,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 400,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5e44711863530d4b6cbf?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -33,7 +33,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 450,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5d7728b73237164af352?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -52,7 +52,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 450,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5dfed4f69826da86c72f?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -71,7 +71,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 450,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c632a0378382c605b3a78?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -90,7 +90,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 450,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1573821663912-569905455b1c?auto=format&fit=crop&w=600&q=80',
+    image: 'https://thumbs.dreamstime.com/b/overhead-view-isolated-white-whole-freshly-baked-delicious-four-cheeses-italian-pizza-white-background-overhead-view-117720896.jpg',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -109,7 +109,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 500,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5dd60378382c605b3a33?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -128,7 +128,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 500,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5e720378382c605b3a3b?w=600',
     isHalal: true,
     isPopular: true,
     sizes: [
@@ -148,7 +148,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 500,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5d4b711863530d4b6cad?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -167,7 +167,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 500,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5e3d711863530d4b6cbd?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -186,7 +186,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 500,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?auto=format&fit=crop&w=600&q=80',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9j6CEspeTydEf_Gary4ZE-V6UNPqH9QX1DuzUrc0dvXWUTJWab-zK3vdN&s=10',
     isHalal: true,
     isVegetarian: true,
     sizes: [
@@ -206,7 +206,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 500,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1544982503-9f984c14501a?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5e1c711863530d4b6cba?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -225,7 +225,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 500,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5e0ed4f69826da86c731?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -244,7 +244,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 500,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5e49711863530d4b6cc0?w=600',
     isHalal: true,
     isSpicy: true,
     sizes: [
@@ -264,7 +264,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 500,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5e24d4f69826da86c733?w=600',
     isHalal: true,
     isVegetarian: true,
     sizes: [
@@ -284,7 +284,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 550,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5df30378382c605b3a37?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -303,7 +303,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 550,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/691d857d765a8ef53e412a0b',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -322,7 +322,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 550,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1595708684082-a173bb3a06c5?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/menu/menu-images/661e3676d9f4680cea3879f5/c181f888-fcc6-11ee-8901-0ec35f4c1c65_pizza_rukola_proshute.jpg',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -341,7 +341,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 550,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1571066811602-716837d681de?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c60592033851f15152829',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -360,7 +360,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 550,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5e30d4f69826da86c735?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -379,7 +379,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 600,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1573821663912-569905455b1c?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5d4b711863530d4b6cad?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -398,7 +398,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 600,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/664c5e08d4f69826da86c730?w=600',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -417,7 +417,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 600,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=600&q=80',
+    image: 'https://www.nordicware.com/wp-content/uploads/2021/05/46400_traditional_pizza_pan_02_e.jpg',
     isHalal: true,
     isPopular: true,
     sizes: [
@@ -437,7 +437,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 600,
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/694e4b9b5d2b0d2b7186d1cb',
     isHalal: true,
     sizes: [
       { id: 'norm', name: { sq: 'Normale', en: 'Normal' }, priceExtra: 0 },
@@ -456,7 +456,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 600,
     category: 'pizza',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGCPIOjHDSPMOrjC7k2GXVuNABxQvwgN2l__bYIdE0we1HHpC6VKI0hbx4&s=10',
+    image: 'https://imageproxy.wolt.com/assets/664c5d592033851f15152804?w=600',
     isHalal: true,
     isPopular: true,
     sizes: [
@@ -711,7 +711,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 300,
     category: 'sides',
-    image: 'https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6a32a9d7918e653b038392ef',
     isHalal: true,
     isVegetarian: true,
   },
@@ -729,7 +729,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 200,
     category: 'krepa',
-    image: 'https://images.unsplash.com/photo-1519676867240-f03562e64548?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/66571ee10b61ae1437497d6d?w=600',
     isHalal: true,
   },
   {
@@ -744,7 +744,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 200,
     category: 'krepa',
-    image: 'https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f7a1365afab7787b5bd9?w=600',
     isHalal: true,
   },
   {
@@ -759,7 +759,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 200,
     category: 'krepa',
-    image: 'https://images.unsplash.com/photo-1519676867240-f03562e64548?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/66f147dafea5e3547f0ee627?w=600',
     isHalal: true,
     isPopular: true,
   },
@@ -775,7 +775,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 300,
     category: 'krepa',
-    image: 'https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/66571e51848a677b03641c20?w=600',
     isHalal: true,
   },
   {
@@ -790,7 +790,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 300,
     category: 'krepa',
-    image: 'https://images.unsplash.com/photo-1519676867240-f03562e64548?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/665722260b61ae1437497da8',
     isHalal: true,
   },
 
@@ -807,7 +807,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 50,
     category: 'drinks',
-    image: 'https://images.unsplash.com/photo-1548839140-29a749e1bc4e?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f82d4c8419fbddefb2e8?w=600',
     isHalal: true,
   },
   {
@@ -822,7 +822,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 100,
     category: 'drinks',
-    image: 'https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f82d4c8419fbddefb2e5?w=600',
     isHalal: true,
     isPopular: true,
   },
@@ -838,7 +838,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 150,
     category: 'drinks',
-    image: 'https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/66f14646c02c6c7da59cd212?w=600',
     isHalal: true,
   },
   {
@@ -853,7 +853,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 150,
     category: 'drinks',
-    image: 'https://images.unsplash.com/photo-1624517452488-04869289c4ca?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f82d4c8419fbddefb2df?w=600',
     isHalal: true,
   },
   {
@@ -868,7 +868,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 150,
     category: 'drinks',
-    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f82d4c8419fbddefb2e0?w=600',
     isHalal: false,
   },
   {
@@ -883,7 +883,7 @@ export const menuItems: MenuItem[] = [
     },
     price: 150,
     category: 'drinks',
-    image: 'https://images.unsplash.com/photo-1622543925917-763c34d1a86e?auto=format&fit=crop&w=600&q=80',
+    image: 'https://imageproxy.wolt.com/assets/6880f82d4c8419fbddefb2de?w=600',
     isHalal: true,
   },
 ];

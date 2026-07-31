@@ -1,0 +1,6 @@
+{
+  "name": "Piceri Komuna e Parisit",
+  "description": "Authentic 100% Halal Pizzeria in Tirana with online ordering, GPS location attach, real-time hours, and English/Albanian language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

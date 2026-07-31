@@ -162,7 +162,7 @@ export const Hero: React.FC<HeroProps> = ({
               {/* Main Featured Image Card */}
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-slate-900 aspect-4/3 group">
                 <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGCPIOjHDSPMOrjC7k2GXVuNABxQvwgN2l__bYIdE0we1HHpC6VKI0hbx4&s=10"
+                  src="https://suebeehomemaker.com/wp-content/uploads/2024/09/supreme-pizza-recipe-6.jpg"
                   alt="Pica Komuna e Parisit"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                 />
@@ -171,8 +171,8 @@ export const Hero: React.FC<HeroProps> = ({
                 {/* Floating Image Label */}
                 <div className="absolute bottom-4 left-4 right-4 text-white p-3 rounded-xl sm:rounded-2xl bg-slate-950/80 backdrop-blur-md border border-white/10 flex items-center justify-between gap-2">
                   <div>
-                    <p className="font-bold text-xs sm:text-sm font-serif leading-tight">Pica Komuna e Parisit</p>
-                    <p className="text-[11px] text-orange-400 font-medium mt-0.5">100% Hallall • Specialitet i Shtëpisë</p>
+                    <p className="font-bold text-xs sm:text-sm font-serif leading-tight">Pica Speciale</p>
+                    <p className="text-[11px] text-orange-400 font-medium mt-0.5">100% Hallall • Specialitet</p>
                   </div>
                   <span className="font-black text-orange-400 text-base sm:text-lg font-mono shrink-0">600 ALL</span>
                 </div>
